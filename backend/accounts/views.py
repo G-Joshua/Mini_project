@@ -4,5 +4,5 @@ from rest_framework.response import Response
 @api_view(['GET'])
 def welcome(request):
     return Response({
-        "message": "Welcome Interns"
+        "message": "Welcome To MY Project"
     })
