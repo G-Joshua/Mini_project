@@ -48,11 +48,10 @@ function Login() {
 <h2
   style={{
     color: "blue",
-    border: "1px solid black",
-    borderRadius: "10px",
-    backgroundColor: "lightgray",
     padding: "12px",
     marginBottom: "25px",
+    fontWeight: "bold",
+    fontSize: "32px",
   }}
 >
   Login

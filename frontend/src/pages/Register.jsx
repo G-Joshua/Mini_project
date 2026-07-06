@@ -30,7 +30,13 @@ function Register() {
     textAlign: "center",
   }}
 >
- <h2>Register</h2>
+ <h2 style={{
+    color: "blue",
+    padding: "12px",
+    marginBottom: "25px",
+    fontWeight: "bold",
+    fontSize: "32px",
+  }}>Register</h2>
     <input
      name="username"
      placeholder="Username"
